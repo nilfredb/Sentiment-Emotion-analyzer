@@ -143,8 +143,7 @@ This project is open-source under the **MIT License**.
 
 ## 🙌 Author
 
-Made with ❤️ by [Nilfred Báez](https://github.com/nilfredb)
-Interested in collaboration, hiring, or feedback?
+Made with ❤️ by [Nilfred Báez](https://github.com/nilfredb) | Interested in collaboration, hiring, or feedback?
 [📧 Email](mailto:nbaez414@gmail.com)
 
 > If you found this useful, give it a ⭐ on GitHub!
