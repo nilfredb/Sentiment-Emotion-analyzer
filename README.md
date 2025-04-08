@@ -7,6 +7,9 @@
 
 A modern, interactive dashboard built with Python and Streamlit to analyze user feedback through **sentiment analysis** and **emotion detection**, using both classical and transformer-based NLP models.
 
+## 🔗 Live Demo
+
+Try it now 👉 [sentiment-emotion-analyzer.streamlit.app](https://sentiment-emotion-analyzer-8x7n5whdq9qpnirfjxxq93.streamlit.app/)
 ![demo](./resources/1.gif)
 
 ---
