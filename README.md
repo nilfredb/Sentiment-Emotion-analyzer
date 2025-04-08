@@ -53,7 +53,7 @@ A modern, interactive dashboard built with Python and Streamlit to analyze user 
 ## 🧪 How it Works
 
 1. Upload your CSV file  
-   ![upload](./resources/1.gif)
+   ![upload](./resources/1.png)
 
 2. Select the analysis engine  
    ![engine](./resources/1.png)
